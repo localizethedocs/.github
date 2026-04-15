@@ -1,8 +1,8 @@
-# Localize The Docs
+<h1>Localize The Docs</h1>
 
 **Localize The Docs** is a community of people who care about documentation localization.
 
-## Official Accounts
+<h2>Official Accounts</h2>
 
 Follow us on our official accounts to stay updated on the latest news.
 
@@ -24,7 +24,7 @@ Follow us on our official accounts to stay updated on the latest news.
 </a>
 </div>
 
-## Financial Sponsors
+<h2>Financial Sponsors</h2>
 
 You can sponsor the projects through the following platforms:
 
